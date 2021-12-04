@@ -1,6 +1,6 @@
 # Resilience to Electro-Magnetic Pulse and Space Weather Events
 
-This is a draft document that will be improved and turned into a useful preparedness plan for Symmetry and for Symmetry people and their families over time.
+This is a draft document that will be improved over time.  Pull Requests welcomed.
 
 "The time to repair the roof is when the sun is shining."
   - John F. Kennedy
