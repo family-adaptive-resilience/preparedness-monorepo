@@ -13,7 +13,7 @@ Three is two, two is one, one is none.
 - Savage, Gilbert and Radasky, _ [The Early-Time (E1) High-Altitude
 Electromagnetic Pulse (HEMP) and
 Its Impact on the U.S. Power Grid](http://large.stanford.edu/courses/2019/ph241/rogers1/docs/meta-r-320.pdf)
-- [UK Cabinet Office Space Weather Preparedness Strategy Sep 2021](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020551/uk-severe-space-weather-preparedness-strategy.pdf)
+- Alexander Cain, _Alive After The Fall_
 
 ## Reading - Supplementary
 - Bobby Akart, _The Threat of EMP: How to Prepare for Life Before, During, And After An EMP Attack_
@@ -22,6 +22,7 @@ Its Impact on the U.S. Power Grid](http://large.stanford.edu/courses/2019/ph241/
 - Iranian military textbook: _Passive Defense_
 - Report of US Electromagnetic Pulse Commission
 - John Matheson, _ EMP Attack City Survival Guide_
+- [UK Cabinet Office Space Weather Preparedness Strategy Sep 2021](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1020551/uk-severe-space-weather-preparedness-strategy.pdf)
 
 ## Reading - Fiction
 - William R. Fortschen, _One Second After_ and _One Year Later_
