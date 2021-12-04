@@ -2,6 +2,9 @@
 
 This is a draft document that will be improved and turned into a useful preparedness plan for Symmetry and for Symmetry people and their families over time.
 
+"The time to repair the roof is when the sun is shining."
+  - John F. Kennedy
+
 ## Reading - Core
 - Larry and Cherryl Poole, _EMP Survival: How to Prepare Now and Survive When an Electromagnetic Pulse Destroys our Power Grid_
 - Savage, Gilbert and Radasky, _ [The Early-Time (E1) High-Altitude
@@ -19,6 +22,14 @@ Its Impact on the U.S. Power Grid](http://large.stanford.edu/courses/2019/ph241/
 - William R. Fortschen, _One Second After_ and _One Year Later_
 
 ## Basics
+
+### Introduction
+- TODO: Explain EMP attack: E1, E2, E3
+- TODO: Explain differences between nuclear EMP, CME, and RF weapon
+
+### Space Weather Monitoring
+- SIL script to monitor
+- How much warning do we have?
 
 ### Water
 - Fill bath tubs / containers / rain barrels if warning
