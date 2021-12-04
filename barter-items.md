@@ -1,3 +1,31 @@
+# Financial / Bartering
+- Physical gold and silver as no banking systems online
+- Alcohol
+- Ammunition
+- Baking Soda
+- Blankets
+- Candy
+- Card Games
+- Clothes
+- Coffee
+- Deodorant
+- Duct Tape
+- First Aid Equipment
+- Flashlights
+- Gasoline
+- Kerosone
+- Kitchen Utensils
+- Plastic Sheeting
+- Propane
+- Purification Tablets
+- Razors
+- Seeds
+- Sewing Kits
+- Soap
+- Tobacco Products
+- Toothbrushes
+- Toothpaste
+- Water
 
 ## Other bartering items
 - Allergy medicine
