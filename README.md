@@ -14,6 +14,7 @@ Three is two, two is one, one is none.
 Electromagnetic Pulse (HEMP) and
 Its Impact on the U.S. Power Grid](http://large.stanford.edu/courses/2019/ph241/rogers1/docs/meta-r-320.pdf)
 - Alexander Cain, _Alive After The Fall_
+- Ted Riley, _When Crisis Hits Suburbia_
 
 ## Reading - Supplementary
 - Bobby Akart, _The Threat of EMP: How to Prepare for Life Before, During, And After An EMP Attack_
