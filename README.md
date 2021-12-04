@@ -21,6 +21,7 @@ Its Impact on the U.S. Power Grid](http://large.stanford.edu/courses/2019/ph241/
 - Jim E. Reames, _Carrington's Revenge: How to Survive EMP_
 - Iranian military textbook: _Passive Defense_
 - Report of US Electromagnetic Pulse Commission
+- John Matheson, _ EMP Attack City Survival Guide_
 
 ## Reading - Fiction
 - William R. Fortschen, _One Second After_ and _One Year Later_
@@ -35,7 +36,8 @@ freedompreppers.com
 ### Introduction
 - TODO: Explain EMP attack: E1, E2, E3
 - TODO: Explain differences between nuclear EMP, CME, and RF weapon
-
+- NOAA weather frequencies ?
+- 
 ### Written Emergency Response Plan
 #### Location of Emergency and Disaster Essentials
 - Blackout kit
@@ -94,14 +96,47 @@ Tailored to specific layout.  But
 - Spade for digging hole to bury rubbish
 - Hand-sanitizer
 - Five-gallon bucket
-- Cat litter
+- Deodorising Cat litter
+- Baby wipes
+- Chapstick
+- Baking soda
 
 ### Health
 - Medicines needed regularly
 - Antibiotics / Antifungal / Antihistamine / Aspirin/ Cold-flu remedies/ diarrhea medicines
-- First Aid + band aids, bandanas, cold compress, tweezers, ACE bandages, bandages focusing on 5x9s, creams, braces, splints, tourniquet, decompression needle, electrolyte powders, rolled gauze, nitrile gloves, medical tape, shears, peroxide, nerosporin, rubbing alcohol, Israeli Pressure Bandages, QuikClot Gauze, N95 masks, essential oils kit
+
+#### First Aid
+Should include
+- bandaids
+- bandanas
+- cold compress
+- tweezers
+- handheld mirror
+- ACE bandages
+- assorted bandages focusing on 5x9s
+- compression bandages
+- ibuprofen / tylenol
+- creams
+- braces
+- splints
+- tourniquet
+- decompression needle (if you know how to use it)
+- electrolyte powders
+- rolled gauze
+- nitrile gloves
+- medical tape
+- medical scissors + shears
+- peroxide
+- nerosporin
+- rubbing alcohol
+- Israeli Pressure Bandages
+- QuikClot Gauze
+- N95 masks
+- essential oils kit
 - first aid manual - CPR, shock, breaks, sprains
 - Iodine / iodide to protect thyroid in case of nuclear power station failure
+- blanket
+
 - Soap, toothpaste, shampoo, loo paper, deodorant, mouthwash, tampons
 - Combs, brushes
 - card with prescriptions, blood types, pre-existing conditions, allergies, previous severe injuries, doctors contact information, immunizations, medical history, insurance information,
@@ -119,10 +154,13 @@ Tailored to specific layout.  But
 - candles (emergency candles burn brighter and longer)
 - LED flashlights
 - battery-powered touch lights
+- kerosone oil lamp 8 ounce -> 11 hours
 
 #### Heating
 - fireplace in home
 - axe and chainsaw to cut down trees
+- catalytic heaters
+- kerosene heaters + kerosene storage
 
 #### Cooking
 - fire steel
@@ -179,7 +217,11 @@ Brands:
 - canned and other goods under the furniture: under beds, back of wardrobe and throughout the home
 
 #### Gardening
+- vegetables, fruits, berries (blackberries, strawberries, blueberries, raspberries)
 - variety of heirloom seeds (vegetables produced will be suitable for growing new crops)
+- good soil + compost
+- tools and materials
+- fencing
 
 #### Cooking Preparedness
 - drying rack for dishes
@@ -189,21 +231,72 @@ Brands:
 - Dish detergent
 - Manual clothes washer
 
-### Communication
-- Short wave radios stored in Faraday Cage
+### Tools
+- hand-powered air pump
+- hand drill
+- hammer
+- nails
+- pry bar
+- powerless saw - handsaw and crosscut saw
+- powerless screwdrucer and assorted screws
+- shovels: classic shovel with long fixed handle; tactical folding shovel with serrated blade on side
+- wrench of different sizes, bolts and nuts
+- meat grinder
+- grain grinder
+- can opener eg P38
+- solar oven
+- butter churn
+- hand-powered water pump
+
+### Communication and Transportation
 - Large loop of wire to boost range of radios in emergency
 - Solar-powered battery recharger for radio
 - Mechanical watches with hour, minute, second hands that do not have batteries
 - Compasses
 - Local printed maps
-- Store petrol, oil, brake fluid and other items needed to keep car / motorbike running
 - Store petrol, oil, brake fluid and other items needed to keep generators running
 - Bicycles
 - Bicycle trailer
+- Wheelbarrow
+- walkie talkies
+- HAM radio
+- GMRS or FRS radio
+- mirror
+- flares
+- laser points
+- fire starting devices
 
+#### Communication and Transportation - Cars
+##### Considerations
+- large fuel capacity
+- plenty of cargo space
+- strong towing capacity
+- strong off-road capacity
+- reliable and easy to maintain
+- limited number of computers, electronics and processors
+- conductive metal body rather than plastic and fibreglass body panels
 
-### Financial
-- Physical gold and silver as no banking systems online
+- Store petrol, oil, brake fluid and other items needed to keep car / motorbike running
+
+##### Car Models
+Ideally pre-1970
+- Chevy Blazer (pre-1984)
+- Ford Bronco (pre-1983)
+- Jeep Cherokee SJ (pre-1984)
+- Jeep CJ5 (pre-1979)
+- Land Rover 90/110 SUV (pre-1989)
+- Toyota Hi-Lux (pre-1985)
+- Toyota Land Cruiser J40 (pre-1984)
+- Volkswagen Beetle (pre-1972)
+
+##### Car - EMP hardening
+- keep vehicle parked in EMP-proof garage
+- ground conductive components to a single point
+- do not connect vehicle to engine oil warmer that is unprotected
+- route wiring closer to frame of vehicle
+- install ferrite clamps over the cable ends
+- make sure everything is mechanical ignition
+- install surge protectors on antennas
 
 ### Entertainment 
 - Books 
@@ -248,9 +341,27 @@ Brands:
 
 ### Protecting Electronic Devices
 - Faraday Bags: MIL-PRF-8170 or MIL-PRF-131
-- Faraday Cage: Aluminium Garbage Can with insulation inside; aluminium foil; aluminium tape for the lid gap; upholstery foam as cushioning material; protection against moisture: 50g dessicant packs; cloth for sharp corners; double layers of aluminium foil; nylon stockings with crystal cat litter for moisture
+
+#### Faraday Cage - garbage can
+Aluminium Garbage Can with insulation inside; aluminium foil; aluminium tape for the lid gap; upholstery foam as cushioning material; protection against moisture: 50g dessicant packs; cloth for sharp corners; double layers of aluminium foil; nylon stockings with crystal cat litter for moisture
+
+Mylar blanket
+
+#### Small Faraday Cage - Cookie Can
 - Faraday Cage: Cookie Can
-- Mylar blanket
+ 
+#### Faraday Cage - Cardboard Box
+- Cardbord Box
+- Heavy Duty Aluminium Foil
+- Cloth/Blanket/Old T Shirt
+- Plastic Wrapping
+- Tape
+
+- Wrap electronics item in cloth
+- Wrap cloth with two layers of plastic wrapping
+- Place wrapped packaging in cardbord box and close box
+- Tape box shut
+- Wrap cardboard box with at least three layers of heavy duty aluminium foil
 
 ### Archives (to be stored inside Faraday Cage)
 - Hard Drives
@@ -272,10 +383,27 @@ Deter, Deny, Detect, Delay, Defend
 - traps
 - air-pistols
 
+#### Gray Man
+Gray (wo)man is someone who can blend in with their surroundings and avoid becoming detected.  Tips include:
+- wear same types of clothing as crowd is wearing
+- always move with flow of crowd rather than against it
+- avoid wearing a backpack if possible
+- never make eye contact with anyone
+- never challenge anybody
+- keep your head low
+- keep valuables and weapons concealed
+
 ### Energy
+#### Energy - Purpose
 - charge essential electronics
 - cook
 - regulate temperature of environment
+
+#### Energy - choices (store in Faraday Cage)
+- solar panels
+- solar panel voltage regulator
+- generators
+- inverters
 
 ### Preparedness groups
 - what are they prepping for?
@@ -288,3 +416,192 @@ Deter, Deny, Detect, Delay, Defend
 - rain gear
 - sunscreen
 - bugspray
+
+### Financial / Bartering
+- Physical gold and silver as no banking systems online
+- Alcohol
+- Ammunition
+- Baking Soda
+- Blankets
+- Candy
+- Card Games
+- Clothes
+- Coffee
+- Deodorant
+- Duct Tape
+- First Aid Equipment
+- Flashlights
+- Gasoline
+- Kerosone
+- Kitchen Utensils
+- Plastic Sheeting
+- Propane
+- Purification Tablets
+- Razors
+- Seeds
+- Sewing Kits
+- Soap
+- Tobacco Products
+- Toothbrushes
+- Toothpaste
+- Water
+
+#### Other bartering items
+- Allergy medicine
+- Aloe Vera Gel
+- Ammunition
+- Aluminium foil
+- Antibiotics
+- Antiseptics
+- Apple cider vinegar
+- Aspirin
+- Baby Food / Formula / Wipes
+- Baking powder / soda
+- Bandages
+- Bandanas
+- Bar soap
+- Batteries
+- Beans
+- Belts
+- Bicycle Parts
+- Bleach
+- Books
+- Buckets
+- Bug spray
+- Can openers
+- Candles
+- Canned food
+- Canned shortening
+- Canning jars / lids
+- Chapstick
+- Charcoal
+- Chocolate
+- Cleaning supplies
+- Clothes line/pins
+- Coffee + filters
+- Combs
+- Condiments
+- Cooking Oil
+- Corn starch
+- Cotton balls
+- Cough drops
+- Crayons
+- Cups
+- Dental floss
+- Dish soap
+- Disposable gloves
+- Disposable razors
+- Dried soup mix
+- Duct tape
+- Tampons
+- First aid kits
+- Fishing gear
+- Flashlights
+- Flout
+- Freeze-dried food
+- Games
+- Garden seeds
+- Gauze
+- Gloves
+- Glowsticks
+- Glue
+- Hairbrushes
+- Hammers
+- Hand warmers
+- Hand sanitizer
+- Hatchets
+- Honey
+- Jelly
+- Dried meat
+- Kerosone
+- Kleenex
+- Knives
+- Lamp oil
+- Laundry detergent
+- Lighter fluid
+- Lighters
+- Lotion
+- Magnifying glasses
+- Maps
+- Masks
+- Matches
+- Measuring cups/spoons
+- Powdered milk
+- Mouthwash
+- MREs
+- Vitamins
+- Nail clippers
+- Mails
+- Needles / Thread
+- Nuts and bolts
+- Paper
+- Paper plates + towels
+- Paracord
+- Paraffin Wax
+- Pasta
+- Peanut butter
+- Pencils + Pens
+- Pepper
+- Pet food
+- Plastic sheeting
+- Plateware
+- Ponchos
+- Popcorn
+- Pots and Pans
+- Prescription Medicine
+- Q tips
+- Rat poison
+- Razor blades
+- Reading glasses
+- Rice
+- Rope
+- Rubber bands
+- Rubbing alcohol
+- Safety pins
+- Saline
+- Salt
+- Saw
+- Scissors
+- Screwdrivers
+- Screws
+- Sea salt
+- Sewing supplies
+- Shampoo / conditioner
+- Sharpening stones
+- Shaving Cream
+- Shoelaces
+- Socks
+- Solar battery charger
+- Spaghetti Sauce
+- Spices
+- Sponges
+- Spray bottles
+- Sugar
+- Sun block
+- Sunglasses
+- Syrup
+- Tape
+- Tarps
+- Tea
+- Thermometers
+- Toilet Paper
+- Tools
+- Toothbrushes and Toothpaste
+- Trash bags
+- Tupperware
+- Tweezers
+- Twine
+- Underwear
+- Utensils
+- Vaseline
+- Vinegar
+- Watches
+- Water
+- Water bottles
+- Water filters
+- Water purification tablets
+- Wax paper
+- WD40
+- Wire
+- Yeast Zip ties
+- Ziploc bags
