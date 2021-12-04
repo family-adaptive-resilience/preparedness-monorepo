@@ -134,17 +134,6 @@ Tailored to specific layout.  But
 - laser points
 - fire starting devices
 
-#### Communication and Transportation - Cars
-##### Considerations
-- large fuel capacity
-- plenty of cargo space
-- strong towing capacity
-- strong off-road capacity
-- reliable and easy to maintain
-- limited number of computers, electronics and processors
-- conductive metal body rather than plastic and fibreglass body panels
-
-- Store petrol, oil, brake fluid and other items needed to keep car / motorbike running
 
 ### Entertainment 
 - Books 
@@ -178,14 +167,7 @@ Tailored to specific layout.  But
 - Solar array equipment, charge controllers, wiring
 - Radiation detector
 
-### Car parts
-- battery cables
-- distributor points
-- condenser
-- starter motor
-- fuses
-- spark plugs
-- snap-on ferrite cores to shield electronic wiring of all types
+
 
 ### Protecting Electronic Devices
 - Faraday Bags: MIL-PRF-8170 or MIL-PRF-131
