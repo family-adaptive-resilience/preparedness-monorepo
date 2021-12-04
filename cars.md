@@ -1,4 +1,26 @@
-##### Car Models
+## Communication and Transportation - Cars
+
+### Considerations
+- large fuel capacity
+- plenty of cargo space
+- strong towing capacity
+- strong off-road capacity
+- reliable and easy to maintain
+- limited number of computers, electronics and processors
+- conductive metal body rather than plastic and fibreglass body panels
+
+- Store petrol, oil, brake fluid and other items needed to keep car / motorbike running
+
+### Car parts
+- battery cables
+- distributor points
+- condenser
+- starter motor
+- fuses
+- spark plugs
+- snap-on ferrite cores to shield electronic wiring of all types
+
+#### Car Models
 Ideally pre-1970
 - Chevy Blazer (pre-1984)
 - Ford Bronco (pre-1983)
@@ -9,7 +31,7 @@ Ideally pre-1970
 - Toyota Land Cruiser J40 (pre-1984)
 - Volkswagen Beetle (pre-1972)
 
-##### Car - EMP hardening
+#### Car - EMP hardening
 - keep vehicle parked in EMP-proof garage
 - ground conductive components to a single point
 - do not connect vehicle to engine oil warmer that is unprotected
