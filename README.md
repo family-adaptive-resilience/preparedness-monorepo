@@ -36,11 +36,44 @@ freedompreppers.com
 - TODO: Explain EMP attack: E1, E2, E3
 - TODO: Explain differences between nuclear EMP, CME, and RF weapon
 
+### Written Emergency Response Plan
+#### Location of Emergency and Disaster Essentials
+- Blackout kit
+- First-aid kit
+- Fire Extinguishers
+
+#### List of Important Numbers for Emergencies
+- Family and Friends
+- Phone Contact Trees for Schools and Organizations
+- Business Contacts
+- Day Care
+- Kids' Schools
+- Kids' Friends and Families
+- Doctors and Specialists
+- Work Numbers
+- Non-Emergency
+- Utilities
+
+#### Fire Drill
+Tailored to specific layout.  But
+- stop
+- drop
+- roll
+
+#### Shelter-in-Place
+- evacuation
+- regional preparedness plans eg hurricanes, wildfires, earthquakes
+- bugout plan
+- base defence plan
+- basic first aid resource
+
 ### Space Weather Monitoring
 - SIL script to monitor
 - How much warning do we have?
 
 ### Water
+1 - 3 gallons of fresh water per person per day for drinking, cleaning and washing
+
 - Fill bath tubs / containers / rain barrels if warning
 - Swimming pool / ponds (need sterilising + filtering)
 - Sterilizing Straw
@@ -48,10 +81,10 @@ freedompreppers.com
 - Calcium hypochlorite to disinfect water
 - Blue jerry can for water transportation
 - Cart or wagon to pull to hold water
-- Stackable water containers with handles
+- Stackable water containers with handles (water bricks)
+- Katadyn Hiker Pro
+- HydroBlu Pressurized Jerry Can
 
-### Food
-- MRE
 
 ### Sanitation
 - Chemical toilet
@@ -66,10 +99,12 @@ freedompreppers.com
 ### Health
 - Medicines needed regularly
 - Antibiotics / Antifungal / Antihistamine / Aspirin/ Cold-flu remedies/ diarrhea medicines
-- First Aid + band aids, bandages, braces, splints
+- First Aid + band aids, bandanas, cold compress, tweezers, ACE bandages, bandages focusing on 5x9s, creams, braces, splints, tourniquet, decompression needle, electrolyte powders, rolled gauze, nitrile gloves, medical tape, shears, peroxide, nerosporin, rubbing alcohol, Israeli Pressure Bandages, QuikClot Gauze, N95 masks, essential oils kit
+- first aid manual - CPR, shock, breaks, sprains
 - Iodine / iodide to protect thyroid in case of nuclear power station failure
 - Soap, toothpaste, shampoo, loo paper, deodorant, mouthwash, tampons
 - Combs, brushes
+- card with prescriptions, blood types, pre-existing conditions, allergies, previous severe injuries, doctors contact information, immunizations, medical history, insurance information,
 
 ### Stored energy
 - Petrol / propane / diesel (presevatives needed)
@@ -97,11 +132,21 @@ freedompreppers.com
 - solar ovens - purchase or DIY with tinfoil and cardboard box
 
 #### Food preparedness
+2,000 calories per person per day at a minimum
+
 Target minimum of 30 days of food stored at home or second location.  Build up slowly over time - look for sales and stock up when items are discounted.  Buy in bulk.  Buy extra every time you go shopping.
 
 Water will be in short supply so avoid food high in salt or that require a lot of water to reconstitute.
 
 Freeze-dried products require little water to make edible; have higher nutritional value than dehydrated foods; have a large variety of foods available; are lightweight and easy to carry.
+
+Brands:
+- Legacy Foods
+- Augason Farms
+- Emergency Essentials
+- My Patriot Supply
+- Wise Food Storage
+- Shelf Stable Foods
 
 - Vitamins
 - Dried legumes : navy, red, pinto beans; lentils; peas
@@ -216,7 +261,7 @@ Freeze-dried products require little water to make edible; have higher nutrition
 ### Security
 
 Deter, Deny, Detect, Delay, Defend
-
+- Get Home Bag in car
 - trenches
 - fences
 - concertina wire / razor ribbon
@@ -226,6 +271,11 @@ Deter, Deny, Detect, Delay, Defend
 - battery-operated alarms
 - traps
 - air-pistols
+
+### Energy
+- charge essential electronics
+- cook
+- regulate temperature of environment
 
 ### Preparedness groups
 - what are they prepping for?
