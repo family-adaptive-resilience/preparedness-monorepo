@@ -1,4 +1,4 @@
-# Resilience to Electro-Magnetic Pulse, Space Weather Events and War Disruption to Power and Communications
+# Adaptive Resilience for Conventional Nuclear, Electro-Magnetic Pulse, and Space Weather Events
 
 This is a draft document that will be improved over time.  Pull Requests welcomed.
 
