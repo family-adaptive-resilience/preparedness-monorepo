@@ -8,6 +8,13 @@ This is a draft document that will be improved over time.  Pull Requests welcome
 Three is two, two is one, one is none.
   - Prepping principle
 
+"The most important thing you can do if any part of this country really is hit by an EMP weapon is to immediately recognize what just happened and get out of any large city.  This may not be as simple as you might think as you will not hear an explosion or see a rising mushroom cloud in the distance or buildings blowing over in hurricane force winds so typical in all those doomsday movies.  This will not be like the movies.  Unlike a temporary power outage this time in addition to no electric power, most vehicle transportation and all communication systems will be severely disrupted.
+
+If you happen to be in a large city when it strikes, you will have a very limited time before all forms of transportation are hopelessly gridlocked.  All traffic and streetlights will be off, and all highway tunnels will be blocked due to lack of operatingf ventilation fans.  If you don't already have a backup plan in place with a safe destination in mind, you'll soon be just another victim wandering the streets until you're picked up by security personnel and taken to the closest FEMA camp.  Yes, there are hundreds of empty FEMA camps surrounded by high security fencing and cameras scattered around this country just waiting for this type of major disruption to civil aosicty to occur, regardless of the cause".
+
+  - The ABCs of EMP: A Practical Guide to Both Understanding and Surviving an EMP
+
+
 ## Reading - Core
 - Larry and Cherryl Poole, _EMP Survival: How to Prepare Now and Survive When an Electromagnetic Pulse Destroys our Power Grid_
 - Savage, Gilbert and Radasky, _ [The Early-Time (E1) High-Altitude
