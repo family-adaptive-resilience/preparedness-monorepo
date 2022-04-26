@@ -1,4 +1,4 @@
-# Adaptive Resilience for Conventional Nuclear, Electro-Magnetic Pulse, and Space Weather Events
+# Adaptive Resilience for Geopolitical Adverse Conditions, Nuclear, Electro-Magnetic Pulse, and Space Weather Events
 
 This is a draft document that will be improved over time.  Pull Requests welcomed.
 
