@@ -6,7 +6,7 @@ This repo is to hold:
 - mini-plans to help people prepare and to create adaptive capabilities for families and the organisation to navigate the challenging era that lies ahead.
 
 ## Status
-- [Potassium Iodide for radiological and nuclear disasters](radiological and nuclear disasters/potassium iodide for radiological and nuclear disasters.md) first draft is complete.
+- [Potassium Iodide for radiological and nuclear disasters](radiological%20and%20nuclear%20disasters/potassium%20iodide%20for%20radiological%20and%20nuclear%20disasters.md) first draft is complete.
 - Everything else is a work-in-progress and will be updated in bursts as I and others have time
 
 ## What challenges?
